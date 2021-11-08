@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635225002 source:d:\re thingies\c++ injection\classic dll injection\main.cpp
+	<iostream>
+	<windows.h>
+	<tlhelp32.h>
+	<tchar.h>
+
